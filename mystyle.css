@@ -1,0 +1,41 @@
+body {
+background-color: black;
+background-image:url("/home/section5/iron.png");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:right:
+}
+h1 {
+background-color: lightblue;
+}
+p {
+color:red;
+border-style:solid;
+border-style:dotted;
+border-color:black green blue yellow;
+border-left:10px solid green;
+}
+p.one {border-style: dotted;
+border-width: thick; 
+}
+h2 {
+margin-left:20px;
+width:50%;
+}
+div {
+width:200%;
+border:25px solid navy;
+}
+p.five {
+color:red;
+border-style:solid;
+border-style:dotted;
+border-left:4px green;
+}
+p.two {
+border-left:10px solid green;
+padding-top:50px;
+padding-left:50px;
+padding-bottom:50px;
+padding-right:50px;
+}
